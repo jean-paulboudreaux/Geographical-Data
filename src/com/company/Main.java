@@ -1,13 +1,3 @@
-// Jean- Paul Boudreaux
-// C00416940
-// CMPS 260
-// Programming Assignment : pa 06
-// Due Date : April 28, 2022
-// Program Description: We are reading from files and computing data from the objects we store in various arraylist.
-// Certificate of Authenticity:
-// I certify the code in method function main and all classes
-// of this project are entirely my own work.
-// Follow this with a description of the type of assistance.
 package com.company;
 import java.io.File;
 
